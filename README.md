@@ -1,16 +1,80 @@
-## Hi there 👋
+# Hi, I'm Neelima Gaikwad 👋
 
-<!--
-**nilimagaikwad911/nilimagaikwad911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst | SQL | Tableau | Power BI | Excel
 
-Here are some ideas to get you started:
+I am an aspiring Data Analyst focused on transforming business data into meaningful insights through data analysis, visualization, and business-oriented storytelling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am building hands-on projects using SQL, Tableau, Power BI, and Excel to strengthen my analytical and visualization skills.
+
+---
+
+## 🛠️ Technical Skills
+
+- **SQL / MySQL** – Data querying, joins, aggregations, and business analysis
+- **Tableau** – Interactive dashboards, KPIs, filters, and data visualization
+- **Power BI** – Data modeling, DAX, dashboards, and reporting
+- **Excel** – Data cleaning, analysis, and dashboard development
+- **Data Analysis** – Trend analysis, profitability analysis, customer and product analysis
+- **GitHub** – Project documentation and portfolio management
+
+---
+
+## 📊 Featured Projects
+
+### 🚲 AdventureWorks Sales Intelligence
+
+Personal data analytics project focused on analyzing sales, profitability, products, customers, and regional performance using SQL, Excel, and Tableau.
+
+**Skills:** SQL | Tableau | Excel | Data Analysis
+
+---
+
+### 👥 AdventureWorks Team Data Analytics Project
+
+Collaborative AdventureWorks analytics project covering data preparation, data modeling, SQL analysis, Tableau visualization, and business insights.
+
+**Skills:** SQL | Tableau | Excel | Data Modeling | Business Analysis
+
+---
+
+### 📈 AdventureWorks MS Excel Project
+
+AdventureWorks sales analysis project developed using Excel, focusing on sales performance and dashboard-based business analysis.
+
+**Skills:** Excel | Data Cleaning | Data Analysis | Dashboard Development
+
+---
+
+## 🎯 Areas of Interest
+
+- Sales & Business Analytics
+- Data Visualization
+- Business Intelligence
+- Customer & Product Analysis
+- Profitability Analysis
+- Dashboard Development
+- Business Data Storytelling
+
+---
+
+## 📚 Currently Building
+
+- Advanced SQL skills
+- Tableau dashboard development
+- Power BI & DAX
+- End-to-end data analytics projects
+- GitHub data analytics portfolio
+
+---
+
+## 💡 My Analytics Approach
+
+**Data → Data Preparation → Data Modeling → SQL Analysis → Visualization → Business Insights**
+
+I focus on converting raw business data into clear, actionable insights that can support better business decision-making.
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: [@nilimagaikwad911](https://github.com/nilimagaikwad911)

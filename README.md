@@ -21,7 +21,7 @@ I am building hands-on projects using SQL, Tableau, Power BI, and Excel to stren
 
 ## 📊 Featured Projects
 
-### 🚲 AdventureWorks Sales Intelligence
+### 🛵 [AdventureWorks Sales Intelligence](https://github.com/nilimagaikwad911/AdventureWorks-Sales-Intelligence)
 
 Personal data analytics project focused on analyzing sales, profitability, products, customers, and regional performance using SQL, Excel, and Tableau.
 
@@ -29,7 +29,7 @@ Personal data analytics project focused on analyzing sales, profitability, produ
 
 ---
 
-### 👥 AdventureWorks Team Data Analytics Project
+### 👥 [AdventureWorks Team Data Analytics Project](https://github.com/nilimagaikwad911/AdventureWorks-Team-Project)
 
 Collaborative AdventureWorks analytics project covering data preparation, data modeling, SQL analysis, Tableau visualization, and business insights.
 
@@ -37,7 +37,7 @@ Collaborative AdventureWorks analytics project covering data preparation, data m
 
 ---
 
-### 📈 AdventureWorks MS Excel Project
+### 📊 [AdventureWorks MS Excel Project](https://github.com/nilimagaikwad911/AdventureWorks-MSExcel-Project)
 
 AdventureWorks sales analysis project developed using Excel, focusing on sales performance and dashboard-based business analysis.
 
@@ -63,7 +63,7 @@ AdventureWorks sales analysis project developed using Excel, focusing on sales p
 - Tableau dashboard development
 - Power BI & DAX
 - End-to-end data analytics projects
-- GitHub data analytics portfolio
+- Data analytics portfolio on GitHub
 
 ---
 
